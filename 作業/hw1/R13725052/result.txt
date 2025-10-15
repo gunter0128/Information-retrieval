@@ -1,0 +1,25 @@
+1: 10000
+a: a, about, accept, against, ago, all, also
+b: b-292, bare, be, been, begin, belgrade, bett, blackout
+c: call, can, case, change, civil, close, coal, combine, come, confront
+d: difficulty, disobedience, doe, dont, down, draw
+e: economy, election, electricity, engineer, equipment, eve
+f: force, four, frustrate
+g: general, gesture, get, give, guard
+h: ha, handful, have, hear, heart, him, hope, hostage, house, hundred
+i: im, independent, it
+j: jamme, jim, journalist, just
+k: keep
+l: land, laste, leader, leav, life, listen
+m: maceda, mak, make, man, marche, may, milosevic, mine, month, my
+n: nationwide, nbc, new, now
+o: on, one, opposition, organize, oust, out
+p: people, person, point, poor, pow, president, presidential, pressure, protest, purpose
+q: question
+r: radio, rally, real, regime, reserve, rid, roadblock
+s: say, sense, serb, serbia, shrink, shut, signal, slobodan, spread, station, step, stole, stoppage, strike, struggle, survive
+t: taste, that, their, there, these, they, thousand, three, throughout, time, tomorrow, tonight, too, try, two-hour
+u: up
+v: very, victim
+w: wait, watch, wealth, week, well, what, when, where, white, word, work, worker, worry
+y: year, yugoslavia
